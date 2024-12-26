@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a website whichteaches people how computer science and coding works!
+- 🔭 I’m currently working on a website which teaches people how computer science and coding works!
 - 🌱 I’m currently learning about nothing.
 - 👯 I’m looking to collaborate on nothing.
 - 🤔 I’m looking for help with nothing.
